@@ -1,2 +1,0 @@
-# ballot-sooraj
-evm
